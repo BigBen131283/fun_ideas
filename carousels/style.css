@@ -41,3 +41,14 @@ section
     width: 100%;
     padding: 40px;
 }
+
+.imgBx
+{
+    width: 100px;
+    height: 100px;  
+}
+
+.imgBx > img
+{
+    
+}
